@@ -1,16 +1,20 @@
-## Hi there 👋
+# Bruno Marcelo Biernaski
 
-<!--
-**biernaski/biernaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entusiasta de tecnologia e programação, explorando projetos em Python, Flutter e desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias & Ferramentas
+- **Linguagens:** Python, Dart, C, C++
+- **Mobile & Frameworks:** Flutter, SQLite
+- **Ferramentas:** Git, VS Code, Linux/Bash
+
+---
+
+### 📌 Projetos em Destaque
+
+- **[Planetas App](https://github.com/biernaski/app-planetas)**  
+  Aplicativo mobile desenvolvido em Flutter com persistência de dados local usando SQLite.
+
+- **[Jogo da Forca (CLI)](https://github.com/biernaski/jogo-da-forca-python)**  
+  Jogo interativo via linha de comando em Python, focado em lógica modular e manipulação de arquivos.
