@@ -11,7 +11,7 @@ Entusiasta de tecnologia e programação, explorando projetos em Python, Flutter
 
 ---
 
-### 📌 Projetos em Destaque
+### 📌 Portifólio de Projetos
 
 - **[Planetas App](https://github.com/biernaski/app-planetas)**  
   Aplicativo mobile desenvolvido em Flutter com persistência de dados local usando SQLite.
